@@ -43,13 +43,13 @@ test_page = "User:Calvy/sandbox"
 # Orchestrator Options
 # ----------------------------------------------------------------------
 
-enable_loot_orchestrator = False
-enable_item_orchestrator = False
-enable_tile_orchestrator = False
-enable_fluid_orchestrator = False
-enable_vehicle_orchestrator = False
+enable_loot_orchestrator = True
+enable_item_orchestrator = True
+enable_tile_orchestrator = True
+enable_fluid_orchestrator = True
+enable_vehicle_orchestrator = True
 enable_tag_orchestrator = True
-enable_text_formatter = False
+enable_text_formatter = True
 
 # ----------------------------------------------------------------------
 # Processing
